@@ -1,0 +1,48 @@
+/* font-family: 'Dancing Script', cursive; */
+
+
+*{
+    margin:0px;
+    padding:0px;
+    background:#D8DAD3;
+}
+h1{
+    color: red;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+.main li{
+list-style-type: none;
+float: right;
+padding:5px;
+margin-right: 20px;
+transition:none;
+  border: 1px solid red;
+  background: pink;
+}
+
+.main li a{
+    background:pink;
+    color:red;
+    width: 20px;
+    height: 20px;
+     text-decoration:none;
+        
+
+}
+.main li a:hover{
+    background:pink;
+    widows: 30px;
+    height: 15px;
+     color:blue;
+}
+
+.products {
+    text-align: center;
+}
+h2,h3{
+font-family: 'Dancing Script', cursive;
+}
+div figure{
+    margin-top: 40px;
+}
